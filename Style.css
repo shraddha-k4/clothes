@@ -1,0 +1,39 @@
+h1{
+            color:black;
+            background-color: white;
+            border-radius: 40px;
+           text-align: center;
+            
+ }
+
+ body
+ {
+    background-color: lightpink;
+ }
+
+ .name
+ {
+    text-align: center;
+    font-size: large-xx;
+    font-weight: bold;
+ }
+
+ #shop
+ {
+    color:white;
+    background-color:blue;
+    height: 100px ;
+    /*justify-content: center;*/
+
+ }
+ .name2{
+    text-align: center;
+    font-size: large-xx;
+    font-weight: bold;
+ }
+ .name3{
+    text-align: center;
+    font-size: large-xx;
+    font-weight: bold;
+ }
+ 

@@ -23,7 +23,10 @@ h1{
     color:white;
     background-color:blue;
     height: 100px ;
-    /*justify-content: center;*/
+    /* justify-items: center; */
+      text-align: center;
+    /* justify-content: center; */
+    
 
  }
  .name2{
